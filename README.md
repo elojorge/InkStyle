@@ -27,7 +27,7 @@ A **InkStyle** é uma plataforma web para conectar clientes a tatuadores profiss
 | **Backend**         | Django, Django REST Framework, Flask (microsserviço de IA)                  |  
 | **Frontend**        | React, TypeScript, Bootstrap                                               |  
 | **Banco de Dados**  | PostgreSQL, Redis                                                          |  
-| **IA**              | Stable Diffusion, PyTorch                                                  |  
+| **IA**              | Stable Diffusion, Midjourney, PyTorch                                      |  
 | **Pagamentos**      | Stripe, Mercado Pago                                                       |  
 | **DevOps**          | Docker, GitHub Actions, AWS EC2/S3                                         |  
 
