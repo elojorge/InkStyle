@@ -113,36 +113,3 @@ API Docs: http://localhost:8000/swagger
 | Chat integrado       | Em progresso  | Alta       |
 | Assinaturas mensais  | Planejado     | Média      |
 | App Mobile           | Futuro        | Baixa      |
-
-🤝 Contribuição
-Siga o Guia de Contribuição.
-
-Use commits semânticos:
-git commit -m "feat: add payment gateway integration"
-
-Documente novas funcionalidades na Wiki.
-
-❓ FAQ
-Como testar pagamentos?
-Use cartões de teste do Stripe:
-
-Número: 4242 4242 4242 4242, CVC: qualquer 3 dígitos.
-
-A IA não gera imagens?
-Verifique se:
-
-O modelo está em ia_artes/models/stable_diffusion_v2.1.
-
-A chave da API está no .env.
-
-📄 Licença
-Distribuído sob a licença MIT. Veja LICENSE para detalhes.
-
-📬 Contato
-Autor: Jorge ELO
-
-Discord: InkStyle Community#1234
-
-LinkedIn: Perfil
-
-
