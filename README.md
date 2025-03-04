@@ -108,10 +108,11 @@ API Docs: http://localhost:8000/swagger
 
 📌 Roadmap
 
-Funcionalidade	Status	Prioridade
-Chat integrado	Em progresso	Alta
-Assinaturas mensais	Planejado	Média
-App Mobile	Futuro	Baixa
+| Funcionalidade       | Status        | Prioridade |
+|----------------------|---------------|------------|
+| Chat integrado       | Em progresso  | Alta       |
+| Assinaturas mensais  | Planejado     | Média      |
+| App Mobile           | Futuro        | Baixa      |
 
 🤝 Contribuição
 Siga o Guia de Contribuição.
