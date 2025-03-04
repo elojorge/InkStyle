@@ -1,9 +1,5 @@
 # InkStyle Tattoo Platform  
 
-[![GitHub License](https://img.shields.io/github/license/elojorge/InkStyle)](https://github.com/elojorge/InkStyle/blob/main/LICENSE)  
-[![Open Issues](https://img.shields.io/github/issues/elojorge/InkStyle)](https://github.com/elojorge/InkStyle/issues)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/elojorge/InkStyle/build.yml)](https://github.com/elojorge/InkStyle/actions)  
-
 **Repositório**: [InkStyle](https://github.com/elojorge/InkStyle)  
 **Status**: Em andamento (🚧 work in progress)  
 
