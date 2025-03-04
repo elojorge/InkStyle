@@ -12,7 +12,7 @@
 ## 🎯 Visão Geral  
 A **InkStyle** é uma plataforma web para conectar clientes a tatuadores profissionais, oferecendo:  
 - 📅 Agendamento inteligente baseado na agenda do tatuador.  
-- 🎨 Geração de arte conceitual via IA (Stable Diffusion).  
+- 🎨 Geração de arte conceitual via IA (Stable Diffusion ou Midjourney).  
 - 💳 Pagamentos seguros com PIX, cartão e PayPal.  
 - ⭐ Portfólio interativo e sistema de avaliações.  
 
